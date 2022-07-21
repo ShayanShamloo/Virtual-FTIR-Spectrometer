@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Virtual-FTIR-Spectrometer/static/css/main.cbc83313.css",
+    "main.js": "/Virtual-FTIR-Spectrometer/static/js/main.e4fca6e0.js",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/Virtual-FTIR-Spectrometer/static/media/Montserrat-VariableFont_wght.3068cdb43142f5625baf.ttf",
+    "static/media/Roboto-Regular.ttf": "/Virtual-FTIR-Spectrometer/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/ftir-main.svg": "/Virtual-FTIR-Spectrometer/static/media/ftir-main.33bd6ff45798c4cca2444a4beeafc440.svg",
+    "static/media/RastonLab-Logo-Full-Rainbow-Draft.svg": "/Virtual-FTIR-Spectrometer/static/media/RastonLab-Logo-Full-Rainbow-Draft.01d2c9693b1b78f04c61a6791c06f344.svg",
+    "index.html": "/Virtual-FTIR-Spectrometer/index.html",
+    "static/media/parabolic-mirror.svg": "/Virtual-FTIR-Spectrometer/static/media/parabolic-mirror.e8520e831a9e5656504c7fff8f85d11a.svg",
+    "static/media/parabolic-mirror-hole-1.svg": "/Virtual-FTIR-Spectrometer/static/media/parabolic-mirror-hole-1.c35877e489014d7e00f2d9dba138fd58.svg",
+    "static/media/parabolic-mirror-hole-2.svg": "/Virtual-FTIR-Spectrometer/static/media/parabolic-mirror-hole-2.2dd9a08620afcf7ce34a6fad9aa6bfe8.svg",
+    "static/media/aperture-wheel.svg": "/Virtual-FTIR-Spectrometer/static/media/aperture-wheel.1d530dbed5065926970e4ececa4b2da5.svg",
+    "static/media/laser.svg": "/Virtual-FTIR-Spectrometer/static/media/laser.3430af08be7268b5f6ceb3fa2e4d1dec.svg",
+    "static/media/movable-corner-cube.svg": "/Virtual-FTIR-Spectrometer/static/media/movable-corner-cube.6bab454bf6aa791e063873d558c154f1.svg",
+    "static/media/fixed-corner-cube.svg": "/Virtual-FTIR-Spectrometer/static/media/fixed-corner-cube.71516613e84bc3b8f1e70aa4641d692b.svg",
+    "static/media/flat-rotatable-mirror-3.svg": "/Virtual-FTIR-Spectrometer/static/media/flat-rotatable-mirror-3.1e82485875e638e40e604a0661d6b665.svg",
+    "static/media/flat-rotatable-mirror-1.svg": "/Virtual-FTIR-Spectrometer/static/media/flat-rotatable-mirror-1.a7bea03b08b79090fe20ad252beced5b.svg",
+    "static/media/flat-rotatable-mirror-2.svg": "/Virtual-FTIR-Spectrometer/static/media/flat-rotatable-mirror-2.bcdcc3db817406260aa6ea5994e60280.svg",
+    "static/media/sample-compartment.svg": "/Virtual-FTIR-Spectrometer/static/media/sample-compartment.7777aa37dafd5c29ce4252532b02b9f1.svg",
+    "static/media/tungsten.svg": "/Virtual-FTIR-Spectrometer/static/media/tungsten.9c2553b18739f85dd51204fe44141def.svg",
+    "static/media/globar.svg": "/Virtual-FTIR-Spectrometer/static/media/globar.55b94dc74806e2703466cb09b174b163.svg",
+    "static/media/fixed-mirror.svg": "/Virtual-FTIR-Spectrometer/static/media/fixed-mirror.f5e3a0f559dffa9de90051186b211e5a.svg",
+    "static/media/lnsb.svg": "/Virtual-FTIR-Spectrometer/static/media/lnsb.19c9170664b06c44d50f370f37bd4134.svg",
+    "static/media/mct.svg": "/Virtual-FTIR-Spectrometer/static/media/mct.7638d2fb9e21c2ecfc2cd6d43b071e77.svg",
+    "main.cbc83313.css.map": "/Virtual-FTIR-Spectrometer/static/css/main.cbc83313.css.map",
+    "main.e4fca6e0.js.map": "/Virtual-FTIR-Spectrometer/static/js/main.e4fca6e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbc83313.css",
+    "static/js/main.e4fca6e0.js"
+  ]
+}
